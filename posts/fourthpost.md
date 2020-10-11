@@ -7,7 +7,7 @@ tags:
   - environment
   - politics
 ---
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. it is so sweet getting it right
 
 ![A sample inlined image](https://source.unsplash.com/random/600x400)
 
